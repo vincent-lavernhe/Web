@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+h1 {
+  color:darkblue;
+  text-align: center;
+  margin-top: 25vh;
+  font-size: 100px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+}
+
+.textintro {
+  color:black;
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 75px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+
+}
+
+body {
+color:black;
+background-image:url(image/findflou.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+background-color:lightblue;
+}
+
+h2 {
+  margin-top: 20vh;
+  color:black;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+}
+
+.textemoi {
+  margin-top: 15vh;
+  width: 350px;
+  margin: left;
+  border: 3px solid black;
+  text-align: justify;
+  padding: 12px;
+  margin-bottom: 20px;
+  margin-left: 40vh;
+  border-radius: 10px;
+  color: black;
+  background-color: #32a8a4;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+
+.imagemoi {
+}
+
+.élèves {
+  text-align: center;
+  margin-top: 35vh;
+}
+
+.titre2 {
+  color:black;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+}
