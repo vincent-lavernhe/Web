@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+h1 {
+  color:black;
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 200px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+}
+
+.textintro {
+  color:black;
+  text-align: center;
+  margin-top: 15vh;
+  font-size: 100px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px black;
+
+}
+
+body {
+color:black;
+background-color:lightblue;
+background-image:url(image/findflou.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+}
